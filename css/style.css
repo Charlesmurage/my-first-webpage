@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul{
+    line-height: 40px;
+}
+
+body{
+    background-color: darkgray;
+}
+
+strong{ 
+    font-style: italic;
+}
+
+em{
+    font-style: initial;
+}
